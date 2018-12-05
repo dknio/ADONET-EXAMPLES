@@ -1,0 +1,7 @@
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\bin\Debug\ADOConnection.exe.config
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\bin\Debug\ADOConnection.exe
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\bin\Debug\ADOConnection.pdb
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\obj\Debug\ADONETConnectors.csprojAssemblyReference.cache
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\obj\Debug\ADONETConnectors.csproj.CoreCompileInputs.cache
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\obj\Debug\ADOConnection.exe
+C:\Users\dknio\source\repos\ADOConnection\ADOConnection\obj\Debug\ADOConnection.pdb
