@@ -488,6 +488,15 @@ INSERT INTO Products(Name,Price,Date) Values (@Name,@Price,@Date)";
             */
             #endregion
 
+            #region Data_Set_Example
+            string conString = @"Data Source=DESKTOP-S1HB38D\SQLEXPRESS;Initial Catalog=ComputerShop;Integrated Security=True";
+            string queryString = "SELECT * FROM Items";
+            SqlDataAdapter adapter = new SqlDataAdapter(queryString, conString);
+            DataSet ds = new DataSet();
+            adapter.Fill(ds, "Items");
+            Console.WriteLine(ds.GetXml());
+            Console.ReadKey();
+            #endregion
         }
     }
 }
